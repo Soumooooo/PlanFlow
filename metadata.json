@@ -1,0 +1,6 @@
+{
+  "name": "PlanFlow - Collaborative Project Management",
+  "description": "Full-stack collaborative project management tool featuring projects, Kanban boards, member assignments, task comments, and real-time WebSocket updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
